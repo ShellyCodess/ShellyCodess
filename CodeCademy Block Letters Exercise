@@ -1,0 +1,10 @@
+print(" SSS ", "Y   Y")
+print("S   S", " Y Y ")
+print("S    ", "  Y  ")
+print(" SSS ", "  Y  ")
+print("    S", "  Y  ")
+print("S   S", "  Y  ")
+print(" SSS ", "  Y  ")
+
+# Above prints in block letters my initials.
+# First time on Git.
